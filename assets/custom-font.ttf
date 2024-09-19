@@ -1,0 +1,7 @@
+h1 {
+    font-family: 'CustomFont', serif;
+}
+
+p {
+    font-family: 'CustomFont', sans-serif;
+}
